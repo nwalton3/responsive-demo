@@ -63,6 +63,7 @@ http://unstoppablerobotninja.com/entry/fluid-images/
 
 ##### SVG
 http://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/
+s
 Works great as background image
 
 
