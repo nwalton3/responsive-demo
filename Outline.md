@@ -14,4 +14,3 @@ Work Outline
 - Media queries
 - Flexible images
 - Flexible grid
-- 
