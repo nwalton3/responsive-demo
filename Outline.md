@@ -12,10 +12,6 @@ Work Outline
 #### Responsive Design
 
 - Media queries
-<<<<<<< HEAD
-- Flexible images
-- Flexible grid
-=======
 - Flexible images and SVG
 - Flexible grid (content)
 - Navigation
@@ -25,4 +21,3 @@ Work Outline
 
 - Compass/Sass
 - Prefix-free
->>>>>>> Update Outline.md
